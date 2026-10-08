@@ -2,12 +2,13 @@
 
 # Ejaz Ashraf
 
-### Full-Stack Software Engineer
+### Full-Stack & Mobile Developer
 
-Building production-ready web and mobile applications used by thousands
+I build web apps, mobile apps and AI features that real businesses run on
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://ejaz-portfolio-eight.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ejazashraf/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire-14A800?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~015906b77829bde815)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ejazashraf933@gmail.com)
 
 </div>
@@ -16,9 +17,21 @@ Building production-ready web and mobile applications used by thousands
 
 ### Who I Am
 
-I'm a Full-Stack Software Engineer from Lahore, Pakistan with experience shipping real products. I've built enterprise web portals, cross-platform mobile apps, and AI-powered SaaS platforms all currently in production with real users.
+I'm a full-stack and mobile developer from Lahore, Pakistan, with 4+ years of shipping production software. I've built enterprise web portals, mobile apps on the App Store and Google Play, and AI-powered SaaS platforms that are in production with real users.
 
-I care about writing clean, maintainable code and delivering great user experiences.
+I take a project from requirements to deployment and keep it running afterwards. I care about plain communication and code that the next person can maintain.
+
+---
+
+### What I'm Working On Now
+
+I work remotely at **LS-LART**, where I own three production systems end to end:
+
+- **AI analytics assistant** (Python, FastAPI, OpenAI, Pinecone): an LLM tool-calling agent that lets non-technical users query business data in plain English, with vector memory, usage metering and a human review pipeline for answer quality
+- **Print-job processing platform** (Angular, Firestore, Cloud Functions): proofing workflows, multi-stage approvals and automated client notifications
+- **Data collection and analytics platform** (PHP, MySQL, ApexCharts, Leaflet): dashboards, geospatial reporting and scheduled jobs
+
+Before that I spent 4+ years at **Kcube.ai**, where I was named Employee of the Quarter twice.
 
 ---
 
@@ -28,10 +41,11 @@ I care about writing clean, maintainable code and delivering great user experien
 |----------|-------------|
 | **Frontend** | React, Angular, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, Redux, RxJS |
 | **Mobile** | React Native, Expo |
-| **Backend** | FastAPI, Django, Node.js, Python, REST APIs |
-| **Database** | PostgreSQL, MongoDB, SQL Server |
-| **Cloud** | Azure (B2C, Blob, App Services), AWS, Docker, Vercel, CI/CD |
-| **Integrations** | DocuSign, Stripe, PostHog, Apple Sign-In, Google OAuth, ElevenLabs, Remotion |
+| **Backend** | FastAPI, NestJS, Django, Node.js, Python, REST and WebSocket APIs |
+| **AI** | OpenAI API, Google Gemini, RAG pipelines, LLM tool-calling agents, Pinecone, pgvector |
+| **Database** | PostgreSQL, MySQL, MongoDB, SQL Server, Redis |
+| **Cloud** | Azure (B2C, Blob, App Services), AWS, Firebase (Firestore, Cloud Functions), Docker, Vercel, CI/CD |
+| **Integrations** | DocuSign, Stripe, SendGrid, PostHog, Apple Sign-In, Google OAuth, ElevenLabs, Remotion |
 | **Testing & Tools** | Jest, Vitest, Git, Jira, Postman, Sentry |
 
 ---
@@ -56,7 +70,7 @@ Built for [Agri Labour Australia](https://staff.agrilabour.com.au) — Australia
 
 `Angular` `React Native` `Expo` `TypeScript` `Azure B2C` `DocuSign`
 
-[Web Portal](https://staff.agrilabour.com.au) · [Google Play](https://play.google.com/store/apps/details?id=com.ejaz.ashraf.agrilabouraustralia)
+[Web Portal](https://staff.agrilabour.com.au) · [App Store](https://apps.apple.com/au/app/ala-candidate-portal/id6741917143) · [Google Play](https://play.google.com/store/apps/details?id=com.ejaz.ashraf.agrilabouraustralia)
 
 </td>
 <td width="50%">
@@ -74,7 +88,7 @@ A smart journal that captures, organizes, and resurfaces your memories through A
 
 `React` `React Native` `TypeScript` `FastAPI` `TailwindCSS` `PostHog` `Stripe`
 
-[Web App](https://core-memories-webapp-frontend-staging.azurewebsites.net/) · [Google Play](https://play.google.com/store/apps/details?id=com.kcube.corememories.core_memories)
+[Google Play](https://play.google.com/store/apps/details?id=com.kcube.corememories.core_memories)
 
 </td>
 </tr>
@@ -188,7 +202,7 @@ Full-stack trip planning app that generates FMCSA-compliant routes for truck dri
 #### Portfolio Website
 **Personal developer portfolio**
 
-Modern, responsive portfolio website built with Next.js and TailwindCSS showcasing projects, skills, and experience. Optimized for performance and SEO.
+Portfolio and services site built with Next.js and Tailwind CSS: projects, services, experience and a contact form.
 
 **What I did:**
 - Designed and developed the complete portfolio from scratch
@@ -203,15 +217,35 @@ Modern, responsive portfolio website built with Next.js and TailwindCSS showcasi
 </td>
 <td width="50%">
 
+#### Hailo — Event Management Platform
+**Enterprise event-operations SaaS**
+
+End-to-end event operations for multi-country teams: projects, teams, finance, procurement, HR and leave, and payroll, with real-time collaboration.
+
+**What I did:**
+- Built the NestJS + TypeORM + PostgreSQL backend with role-based access control, JWT auth and TOTP two-factor authentication
+- Added real-time notifications and presence with Socket.IO and Redis
+- Ran background jobs (email, digests, exports) on BullMQ
+- Built the React frontend with Azure MSAL and Google login
+
+`React` `NestJS` `TypeScript` `PostgreSQL` `Socket.IO` `Redis` `BullMQ`
+
 </td>
 </tr>
 </table>
 
 ---
 
+### Recognition
+
+- **Employee of the Quarter, twice** at Kcube.ai (Q3 2022 and Q2 2025)
+- **Information Technology Specialist: JavaScript**, Pearson VUE (August 2024)
+
+---
+
 <div align="center">
 
-**Open to Full-Stack Software Engineer opportunities — remote or on-site**
+**Open to freelance projects and full-stack roles, remote or on-site**
 
 *Let's connect: [ejazashraf933@gmail.com](mailto:ejazashraf933@gmail.com)*
 
